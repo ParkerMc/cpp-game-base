@@ -29,7 +29,7 @@ endif()
 
 include_directories(Headers/
                     libs/assimp/include/
-                    libs/bullet/
+                    libs/bullet/src/
                     libs/glad/include/
                     libs/glfw/include/
                     libs/glm/
