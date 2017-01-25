@@ -13,3 +13,7 @@
 [submodule "src/libs/stb"]
 	path = src/libs/stb
 	url = https://github.com/nothings/stb.git
+[submodule "src/libs/glad"]
+	path = src/libs/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
