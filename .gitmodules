@@ -4,10 +4,6 @@
 [submodule "src/libs/bullet"]
 	path = src/libs/bullet
 	url = https://github.com/bulletphysics/bullet3.git
-[submodule "src/libs/glad"]
-	path = src/libs/glad
-	url = https://github.com/Dav1dde/glad.git
-	branch = c
 [submodule "src/libs/glfw"]
 	path = src/libs/glfw
 	url = https://github.com/glfw/glfw.git
